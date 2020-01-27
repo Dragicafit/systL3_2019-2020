@@ -25,16 +25,6 @@ Systèmes L3 2019-2020
 
 # TP
 
-<<<<<<< HEAD
 * TP nº1 (tampons et archivage) : [énoncé](TP1/tp1.md)
 
-**Remarque :** ces feuilles de TD en *markdown* sont faites pour être
-lues directement sur l'interface web du gitlab de l'UFR. On profite ainsi
-de la coloration syntaxique, des liens hypertextes, etc. Mais la syntaxe
-markdown étant assez légère, ces feuilles de TD peuvent être ouvertes
-dans votre éditeur de texte favori.
-=======
-#### semaine du 27/01/2020
-
-[tp1.md](TP/TP1/tp1.md)
->>>>>>> 548755414b3bdf7174426e3ed74c424e2b577ef6
+**Remarque :** ces feuilles de TD en *markdown* sont faites pour être lues directement sur l'interface web du gitlab de l'UFR. On profite ainsi de la coloration syntaxique, des liens hypertextes, etc. Mais la syntaxe markdown étant assez légère, ces feuilles de TD peuvent être ouvertes dans votre éditeur de texte favori.
