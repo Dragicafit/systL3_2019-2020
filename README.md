@@ -23,6 +23,10 @@ Systèmes L3 2019-2020
 
 #### 30/01/2020
 
+* processus : mode noyau / mode utilisateur
+* fichiers : i-nœuds sur disque et en mémoire, `open`, `close`, `read`, `write`; sources : [comparaison_temps.c](Cours/20200130/comparaison_temps.c), [up.c](Cours/20200130/up.c), [wc.c](Cours/20200130/wc.c), [alphabet.c](Cours/20200130/alphabet.c)
+* gestion des erreurs : `perror`, `errno`; sources : [erreur1.c](Cours/20200130/erreur1.c), [erreur2.c](Cours/20200130/erreur2.c)
+
 # TP
 
 * TP nº1 (tampons et archivage) : [énoncé](TP1/tp1.md)
