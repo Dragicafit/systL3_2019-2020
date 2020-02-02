@@ -1,10 +1,12 @@
 Systèmes L3 2019-2020
 =================
 
-**Conseil :** cloner ce dépôt pour pouvoir récupérer les fichiers fournis avec un simple `git pull`, et travailler directement dans le répertoire cloné.
+**Conseil :** cloner ce dépôt et travailler directement dans le répertoire cloné.
 
 ```bash
 git clone git@gaufre.informatique.univ-paris-diderot.fr:klimann/systL3_2019-2020.git
+...
+git pull
 ```
 
 # Équipe pédagogique
