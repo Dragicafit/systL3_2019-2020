@@ -1,7 +1,13 @@
 Systèmes L3 2019-2020
 =================
 
-# Equipe pédagogique
+**Conseil :** cloner ce dépôt pour pouvoir récupérer les fichiers fournis avec un simple `git pull`, et travailler directement dans le répertoire cloné.
+
+```bash
+git clone git@gaufre.informatique.univ-paris-diderot.fr:klimann/systL3_2019-2020.git
+```
+
+# Équipe pédagogique
 
 | | | |
 |---:|---|---|
@@ -29,6 +35,6 @@ Systèmes L3 2019-2020
 
 # TP
 
-* TP nº1 (tampons et archivage) : [énoncé](TP1/tp1.md)
+* TP nº1 (tampons et archivage) : [énoncé](TP1/tp1.md) + (exceptionnellement) correction du premier exercice en [haut-niveau](TP1/listar_haut_niveau.c) et [bas-niveau](TP1/listar_bas_niveau.c) pour vous aider à avancer
 
 **Remarque :** ces feuilles de TD en *markdown* sont faites pour être lues directement sur l'interface web du gitlab de l'UFR. On profite ainsi de la coloration syntaxique, des liens hypertextes, etc. Mais la syntaxe markdown étant assez légère, ces feuilles de TD peuvent être ouvertes dans votre éditeur de texte favori.
