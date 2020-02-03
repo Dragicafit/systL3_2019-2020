@@ -49,6 +49,12 @@ Un bloc entête a une structure décrite par le type `struct posix_header` dans 
 
 Écrire un programme `listar` affichant du contenu d'une archive `tar` dans l'esprit de `tar tvf` (mais avec seulement l'affichage de la taille et du nom de fichier). Pour cela, utiliser un tampon de 512 octets pour lire les blocs les uns après les autres.
 
+Approche conseillée :
+
+* écrire un programme qui ouvre en lecture le fichier `tar` dont le nom est passé en 1er argument;
+* le modifier pour lire, interpréter et afficher les informations contenues dans la première entête; en particulier, on rappelle que la taille est stockée **en octal**;
+* le modifier pour boucler sur les entêtes suivantes, jusqu'à tomber sur un bloc rempli de '\0'.
+
 Pour vous déplacer d'entête en entête dans le fichier `tar`, vous pouvez remarquer que le nombre de blocs occupés par un fichier de taille `filesize` est la partie entière _supérieure_ de la division de `filesize` par 512, c'est-à-dire `(filesize + 512 - 1) / 512`, ou encore `(filesize + 512 - 1) >> 9` puisque 512 = 2^9, ou `(filesize + BLOCKSIZE - 1) >> BLOCKBITS` avec les macros définies dans `tar.h`.
 
 

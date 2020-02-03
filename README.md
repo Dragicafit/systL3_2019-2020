@@ -1,7 +1,15 @@
 Systèmes L3 2019-2020
 =================
 
-# Equipe pédagogique
+**Conseil :** cloner ce dépôt et travailler directement dans le répertoire cloné.
+
+```bash
+git clone git@gaufre.informatique.univ-paris-diderot.fr:klimann/systL3_2019-2020.git
+...
+git pull
+```
+
+# Équipe pédagogique
 
 | | | |
 |---:|---|---|
@@ -23,8 +31,14 @@ Systèmes L3 2019-2020
 
 #### 30/01/2020
 
+* processus : mode noyau / mode utilisateur
+* fichiers : i-nœuds sur disque et en mémoire, `open`, `close`, `read`, `write`; sources : [comparaison_temps.c](Cours/20200130/comparaison_temps.c), [up.c](Cours/20200130/up.c), [wc.c](Cours/20200130/wc.c), [alphabet.c](Cours/20200130/alphabet.c)
+* gestion des erreurs : `perror`, `errno`; sources : [erreur1.c](Cours/20200130/erreur1.c), [erreur2.c](Cours/20200130/erreur2.c)
+
 # TP
 
-* TP nº1 (tampons et archivage) : [énoncé](TP1/tp1.md)
+* TP nº1 (tampons et archivage) : [énoncé](TP1/tp1.md) + (exceptionnellement) correction du premier exercice en [haut-niveau](TP1/listar_haut_niveau.c) et [bas-niveau](TP1/listar_bas_niveau.c) pour vous aider à avancer
+
+* TP nº2 (lecture/écriture bas-niveau) : [énoncé](TP2/tp2.md)
 
 **Remarque :** ces feuilles de TD en *markdown* sont faites pour être lues directement sur l'interface web du gitlab de l'UFR. On profite ainsi de la coloration syntaxique, des liens hypertextes, etc. Mais la syntaxe markdown étant assez légère, ces feuilles de TD peuvent être ouvertes dans votre éditeur de texte favori.
