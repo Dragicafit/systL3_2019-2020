@@ -39,4 +39,6 @@ git pull
 
 * TP nº1 (tampons et archivage) : [énoncé](TP1/tp1.md) + (exceptionnellement) correction du premier exercice en [haut-niveau](TP1/listar_haut_niveau.c) et [bas-niveau](TP1/listar_bas_niveau.c) pour vous aider à avancer
 
+* TP nº2 (lecture/écriture bas-niveau) : [énoncé](TP2/tp2.md)
+
 **Remarque :** ces feuilles de TD en *markdown* sont faites pour être lues directement sur l'interface web du gitlab de l'UFR. On profite ainsi de la coloration syntaxique, des liens hypertextes, etc. Mais la syntaxe markdown étant assez légère, ces feuilles de TD peuvent être ouvertes dans votre éditeur de texte favori.
