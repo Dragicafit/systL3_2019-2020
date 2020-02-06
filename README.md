@@ -39,7 +39,7 @@ git pull
 
 * mémoire d'un processus; sources : [tas_pile.c](Cours/20200206/tas_pile.c), [memory1.c](Cours/20200206/memory1.c), [memory2.c](Cours/20200206/memory2.c)
 * états d'un processus
-* création d'un processus : `fork`; sources : [ex1_fork.c](Cours/20200206/ex1_fork.c), [ex2_fork.c](Cours/20200206/ex2_fork.c), [test_fork_write.c](Cours/20200206/est_fork_write.c)
+* création d'un processus : `fork`; sources : [ex1_fork.c](Cours/20200206/ex1_fork.c), [ex2_fork.c](Cours/20200206/ex2_fork.c), [test_fork_write.c](Cours/20200206/test_fork_write.c)
 * écrasement de code : `exec`; sources : [ex1_exec.c](Cours/20200206/ex1_exec.c), [ex2_exec.c](Cours/20200206/ex2_exec.c)
 * synchronisation père/fils : `wait`; source : [ex_wait.c](Cours/20200206/ex_wait.c)
 
