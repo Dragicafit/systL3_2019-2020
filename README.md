@@ -49,4 +49,6 @@ git pull
 
 * TP nº2 (lecture/écriture bas-niveau) : [énoncé](TP2/tp2.md)
 
+* TP nº3 (duplication de processus) : [énoncé](TP3/tp3.md)
+
 **Remarque :** ces feuilles de TD en *markdown* sont faites pour être lues directement sur l'interface web du gitlab de l'UFR. On profite ainsi de la coloration syntaxique, des liens hypertextes, etc. Mais la syntaxe markdown étant assez légère, ces feuilles de TD peuvent être ouvertes dans votre éditeur de texte favori.
