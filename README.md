@@ -50,7 +50,7 @@ git pull
   [test2_tube.c](Cours/20200213/test2_tube.c),
   [tube_plein.c](Cours/20200213/tube_plein.c),
   [tube_sans_lecteur.c](Cours/20200213/tube_sans_lecteur.c)
-* attente sur plusieurs descripturs : `select`; source : [selection.c](Cours/20200213/selection.c)
+* attente sur plusieurs descripteurs : `select`; source : [selection.c](Cours/20200213/selection.c)
 
 # TP
 
