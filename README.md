@@ -43,6 +43,15 @@ git pull
 * écrasement de code : `exec`; sources : [ex1_exec.c](Cours/20200206/ex1_exec.c), [ex2_exec.c](Cours/20200206/ex2_exec.c)
 * synchronisation père/fils : `wait`; source : [ex_wait.c](Cours/20200206/ex_wait.c)
 
+#### 13/02/2020
+
+* retour sur `wait`; source : [ex_wait.c](Cours/20200213/ex_wait.c)
+* synchronisation père/fils : tubes anonymes; sources :
+  [test2_tube.c](Cours/20200213/test2_tube.c),
+  [tube_plein.c](Cours/20200213/tube_plein.c),
+  [tube_sans_lecteur.c](Cours/20200213/tube_sans_lecteur.c)
+* `select`; source : [selection.c](Cours/20200213/selection.c)
+
 # TP
 
 * TP nº1 (tampons et archivage) : [énoncé](TP1/tp1.md) + (exceptionnellement) correction du premier exercice en [haut-niveau](TP1/listar_haut_niveau.c) et [bas-niveau](TP1/listar_bas_niveau.c) pour vous aider à avancer
