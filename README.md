@@ -60,6 +60,8 @@ git pull
 
 * TP nº3 (duplication de processus) : [énoncé](TP3/tp3.md)
 
+* TP nº4 (synchronisation père-fils) : [énoncé](TP4/tp4.md)
+
 **Remarque :** ces feuilles de TD en *markdown* sont faites pour être lues directement sur l'interface web du gitlab de l'UFR. On profite ainsi de la coloration syntaxique, des liens hypertextes, etc. Mais la syntaxe markdown étant assez légère, ces feuilles de TD peuvent être ouvertes dans votre éditeur de texte favori.
 
 
