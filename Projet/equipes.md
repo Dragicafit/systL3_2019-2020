@@ -10,3 +10,8 @@ Liste des équipes pour le projet
 ## équipe 2
 * Léia Lebail
 * Léna Francisco Do Carmo
+
+## équipe 3
+* RARIVOMANANA Jédidia
+* DIAWADOH Locman-Njim
+* CISSÉ GASSAMA Ibrahima
