@@ -20,3 +20,8 @@ Liste des équipes pour le projet
 * Ilyess NAIT BELKACEM
 * Siegfried SAHUC
 * Sawssen HADDED
+
+## équipe 5
+* Marina Checri
+* Jack Nyawa
+* Daphné Trama
