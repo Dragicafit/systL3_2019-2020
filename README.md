@@ -68,3 +68,5 @@ git pull
 # Projet
 
 [énoncé](Projet/projet.md)
+
+[liste des équipes déclarées](Projet/equipes.md)
