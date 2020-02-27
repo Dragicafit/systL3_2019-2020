@@ -67,3 +67,8 @@ Liste des équipes pour le projet
 ## équipe 14
 * Marianne LEMOINNE
 * Hugo VOVARD
+
+## équipe 15
+* EL OUARDI Kawthar
+* RAFELIHARIVONY Orlando
+* MENGES Arthur
