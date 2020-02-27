@@ -63,3 +63,7 @@ Liste des équipes pour le projet
 * KACOUCHIA Gnima
 * WANE Marième
 * WANE Yeya
+
+## équipe 14
+* Marianne LEMOINNE
+* Hugo VOVARD
