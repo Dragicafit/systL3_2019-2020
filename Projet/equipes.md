@@ -83,3 +83,8 @@ Liste des équipes pour le projet
 * Zerbib Ruben
 * Bayech Maher
 
+## équipe 18
+* Sébastien Golouboff
+* Binchen Sun
+* Nicolas Ngauv
+
