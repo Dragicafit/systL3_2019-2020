@@ -77,3 +77,9 @@ Liste des équipes pour le projet
 * Benamara Abdelkader Chihab
 * Djelid Aymen
 * Aknoun Mehdi
+
+## équipe 17
+* Hamdani Amal
+* Zerbib Ruben
+* Bayech Maher
+
