@@ -52,6 +52,22 @@ git pull
   [tube_sans_lecteur.c](Cours/20200213/tube_sans_lecteur.c)
 * attente sur plusieurs descripteurs : `select`; source : [selection.c](Cours/20200213/selection.c)
 
+#### 27/02/2020
+
+* compléments sur les tubes: `PIPE_BUF`
+* redirections : `dup2` et `dup`; sources :
+  [redirection.c](Cours/20200227/redirection.c),
+  [count_grep.c](Cours/20200227/count_grep.c),
+  [yes_head.c](Cours/20200227/yes_head.c)
+* statut d'un fichier : `stat`, `fstat` et `lstat`; sources :
+  [inode_number.c](Cours/20200227/inode_number.c),
+  [inode_type.c](Cours/20200227/inode_type.c)
+* parcours de répertoire : `opendir`, `readdir` et `closedir`;
+  sources : [ls_a.c](Cours/20200227/ls_a.c),
+  [ls_a2.c](Cours/20200227/ls_a2.c)
+* parcours d'arborescence : `getcwd`, `chdir`; source :
+  [directory_depth.c](Cours/20200227/directory_depth.c)
+
 # TP
 
 * TP nº1 (tampons et archivage) : [énoncé](TP1/tp1.md) + (exceptionnellement) correction du premier exercice en [haut-niveau](TP1/listar_haut_niveau.c) et [bas-niveau](TP1/listar_bas_niveau.c) pour vous aider à avancer
