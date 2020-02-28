@@ -88,3 +88,22 @@ Liste des équipes pour le projet
 * Binchen Sun
 * Nicolas Ngauv
 
+## équipe 19
+* BERSTEL Philémon
+* SEJOURNE Adrien
+
+## équipe 20
+* DJEGHIM Hala
+* OULD BELKACEM Nabila
+
+## équipe 21
+* Felipe Gonzalez Arenas
+* Mélissa Saibi
+* Anthony Dupré
+
+## équipe 22
+* Jawad SEMRA
+* Arnaud BIHAN
+* Alex GEORGESCU
+
+
