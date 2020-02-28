@@ -91,6 +91,7 @@ Liste des équipes pour le projet
 ## équipe 19
 * BERSTEL Philémon
 * SEJOURNE Adrien
+* WU Alban
 
 ## équipe 20
 * DJEGHIM Hala
@@ -106,4 +107,26 @@ Liste des équipes pour le projet
 * Arnaud BIHAN
 * Alex GEORGESCU
 
+## équipe 23
+* Lucie Danis
+* Mélissa Ren
+* Berkhais-Lamy Alexandre
+
+## équipe 24
+* HUANG Francois
+* THAUVIN Dao
+* HAMMER Cerise (Charlotte)
+
+## équipe 25
+* HEDDADJ Steven
+* IHYATEN Imane
+* MOHAMMAD Souhel
+
+## équipe 26
+* Samake Moussa
+* Okutucu Hamza
+
+## équipe 27
+* HAMILCARO Joël
+* TU Jie
 
