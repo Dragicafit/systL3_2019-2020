@@ -130,3 +130,7 @@ Liste des équipes pour le projet
 * HAMILCARO Joël
 * TU Jie
 
+## équipe 28
+* LIN Christian
+* MARTIN Michael
+* LEE Victor
