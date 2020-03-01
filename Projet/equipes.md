@@ -183,3 +183,8 @@ Liste des équipes pour le projet
 * Damien Herbert
 * Tom Payet
 * Antoine Berthel
+
+## équipe 40
+* Nelson Perdriau
+* Maria Ryane NADJEM
+* Tony Weng
