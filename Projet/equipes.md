@@ -188,3 +188,17 @@ Liste des équipes pour le projet
 * Nelson Perdriau
 * Maria Ryane NADJEM
 * Tony Weng
+
+## équipe 41
+* YEBKA Massinissa
+* El HOUFI Othman
+
+## équipe 42
+* Benichou yaniv
+* Ansari edwin
+* Lignier hugo
+
+## équipe 43
+* Gardes Cameron
+* Leguay Corentin
+* Lejeune Nicolas
