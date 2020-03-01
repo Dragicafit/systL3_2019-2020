@@ -202,3 +202,11 @@ Liste des équipes pour le projet
 * Gardes Cameron
 * Leguay Corentin
 * Lejeune Nicolas
+
+## équipe 44
+* Ghislain KENGNE GUMETE
+* Etienne LAFOND
+
+## équipe 45
+* Philippe Volte--Vieira
+* Julien BERSAUTER
