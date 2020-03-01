@@ -178,3 +178,8 @@ Liste des équipes pour le projet
 ## équipe 38
 * Thioro FALL
 * El Hadji Malick NDIAYE
+
+## équipe 39
+* Damien Herbert
+* Tom Payet
+* Antoine Berthel
