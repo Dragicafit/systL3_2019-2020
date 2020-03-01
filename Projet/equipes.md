@@ -134,3 +134,47 @@ Liste des équipes pour le projet
 * LIN Christian
 * MARTIN Michael
 * LEE Victor
+
+## équipe 29
+* Ta Théo
+* Lakhdhar Amira
+* Belhoula chaima
+
+## équipe 30
+* Nicolas TEXIER
+* Link CHEN
+
+## équipe 31
+* DUNG Adrien
+* Lyes Fezoui
+
+## équipe 32
+* Chani Kabla
+* Alex Shirlaw
+* Eléonore Rigal
+
+## équipe 33
+* Dahlia DRALI
+* Laeticia HADJLOUM
+* Yacine OUNNOUGHENE
+
+## équipe 34
+* ATTAL Dylan
+* AKSENTIJEVIC Nenad
+
+## équipe 35
+* Zidelmal Smail
+* Bekhtaoui Mehdi
+
+## équipe 36
+* Djouher hassani
+* Anis ait braham
+* Mohand khimeche
+
+## équipe 37
+* Bilel MOSBAH
+* Hanane HADJAB
+
+## équipe 38
+* Thioro FALL
+* El Hadji Malick NDIAYE
