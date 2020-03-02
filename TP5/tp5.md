@@ -52,11 +52,9 @@ Exercice 4 : cacophonie
 -----------------------
 
 Modifier le programme `echo-service.c` de l'exercice 3 pour supporter
-plusieurs processus fils, qui écrivent tous *via* le même tube partagé
-avec le processus père (à noter : cela est possible sans fragmentation
-seulement grâce au fait que les message envoyés sont plus courts que la
-constante `PIPE_BUF`, cf. la page de manuel `pipe(7)`).  Le nombre de
-processus fils doit être spécifié *via* la ligne de commande.
+plusieurs processus fils, qui écrivent chacun *via* un tube dédié, partagé
+avec le processus père.  Le nombre de processus fils doit être spécifié
+*via* la ligne de commande.
 
 Essayer d'abord une implémentation naïve, dans laquelle le processus père
 traite les requêtes des fils une par une, dans un ordre prédéfini (p.ex.,
