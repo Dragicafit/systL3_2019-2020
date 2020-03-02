@@ -210,3 +210,9 @@ Liste des équipes pour le projet
 ## équipe 45
 * Philippe Volte--Vieira
 * Julien BERSAUTER
+
+## équipe 46
+* Quentin PALMISANO
+* David HAMELIN
+* Paul BOURSIN
+
